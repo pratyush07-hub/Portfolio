@@ -87,6 +87,8 @@ h1 {
   z-index: 0;
   /* margin-left: 0; */
 }
+.img::after
+
 .btn {
   /* background-color: #134B70; */
   width: 40%;
@@ -341,7 +343,6 @@ footer a {
   .co {
     margin-left: 70px;
     /* margin: auto; */
-
   }
   .logo {
     margin-top: 5px;
